@@ -9,7 +9,7 @@ public class Customer
          
         public string Salutation { get; set; }
 
-        //public string Suffix { get; set; } removed in latest sheet
+		//Added for testing git purpose
          
         public string FirstName { get; set; }
 
